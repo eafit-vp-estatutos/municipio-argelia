@@ -14,6 +14,13 @@
     "text": "Contribuciones (CRediT)\n\nUn ✓ indica responsabilidad principal; un • contribución de apoyo; - no aplica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRol (CRediT)\nJuan Carlos\nMonica\nLaura\nEugenio\nYeison\nCarolina\nGuillermo\nDaniel\nHarold\n\n\n\n\nConceptualización\n✓\n✓\n✓\n-\n-\n✓\n✓\n✓\n✓\n\n\nCuraduría de datos\n✓\n✓\n-\n✓\n✓\n-\n•\n-\n-\n\n\nMetodología\n✓\n✓\n-\n-\n•\n-\n✓\n-\n-\n\n\nSoftware / reproducibilidad\n✓\n✓\n-\n-\n•\n-\n•\n-\n-\n\n\nValidación\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n\n\nAnálisis formal\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n\n\nVisualización\n✓\n✓\n-\n✓\n✓\n✓\n•\n-\n-\n\n\nRedacción – borrador original\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nRedacción – revisión y edición\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nAdministración del proyecto\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nSupervisión\n✓\n•\n-\n-\n•\n•\n•\n-\n-"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidos",
+    "section": "",
+    "text": "Bienvenid@s a los resultados del estudio sobre estatutos tributarios óptimos para el municipio de Argelia. Este proyecto ha sido liderado por la Gobernación de Antioquia y el Centro Valor Público de la Universidad EAFIT.\nEn esta página encontrara los principales resultados del ejercicios. Para mayor información no dude en comunicarse con el equipo de trabajo.\nEsperamos que los resultados aquí presentados sean insumos para la toma de desciones basada en la evidencia para la transformación del departamento y la consolidación de la independencia fiscal."
+  },
+  {
     "objectID": "analisis_r1.html",
     "href": "analisis_r1.html",
     "title": "Información catastral de Argelia",
@@ -26,6 +33,69 @@
     "title": "Metodología selección estatuto óptimo - Argelia",
     "section": "",
     "text": "La selección del estatuto óptimo se realiza con una combinación de factores que busca\nLos pasos para la selección 1. Análisis y estandarización de la información catastral R1 2. Transcripción y análisis del estatuto vigente 3. Análisis de la información de facturación con fin de determinar las probabilidades de pago 4. Uso de modelos estadísticos para la modelación 5. Modelo de\n\n1 Criterios de estatutos óptimos\nBasado en la mejores prácticas internacionales y el análisis de las estructuras de los estatutos, el equipo a desarrollado los criterios bases que debería tener una tabla de milaje completa, sencilla y con los elementos básicos para volver el impuesto predial un instrumento de planeación territoiral\npara optimizar el diseño de las tablas de milaje\n\nProgresividad entendible. Las tarifas suben de forma ordenada al pasar de usos residenciales / productivos básicos a usos más intensivos (incluyendo ahora Institucional y Vulnerables con un tratamiento estable) y de avalúos bajos a altos en los grupos segmentados. La idea es que quien tiene más capacidad paga más, sin saltos bruscos.\nCumplimiento de reglas legales. Las seis tarifas centrales de cada zona se mantienen dentro de una franja legal entre 5 y 16 por mil. Solo los dos extremos pueden salirse de esa franja:\n\nHabitacional–Bajos (el más bajo), que puede estar por debajo, y\nEspeculativo–Altos (el más alto), que puede estar por encima hasta el tope que defina el municipio.\n\nClaridad para decidir. Separar los extremos del resto nos permite afinar la protección a hogares de menor avalúo y, al tiempo, desincentivar prácticas especulativas cuando el municipio lo considere pertinente.\nTarifas enteras y ordenadas. Las cifras finales son números enteros, fáciles de comunicar y comparar, manteniendo el orden progresivo."
+  },
+  {
+    "objectID": "optimo_propuesta.html",
+    "href": "optimo_propuesta.html",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "",
+    "text": "La presente propuesta contiene los elementos técnicos y normativos para la implementación del estatuto tributario óptimo para el municipio de Argelia (código DANE: 05055).\nEsta propuesta se fundamenta en el análisis técnico realizado y la metodología aplicada para la optimización del impuesto predial."
+  },
+  {
+    "objectID": "optimo_propuesta.html#archivos-excel-con-datos-técnicos",
+    "href": "optimo_propuesta.html#archivos-excel-con-datos-técnicos",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "2.1 Archivos Excel con Datos Técnicos",
+    "text": "2.1 Archivos Excel con Datos Técnicos\nLos siguientes archivos contienen los datos técnicos, cálculos y escenarios utilizados para la elaboración de la propuesta:\n\n\n\n\n\n\nTip📊 Descargas Disponibles\n\n\n\n\n2.1.1 Datos Principales\n\n📈 Escenarios Completos - Análisis completo de todos los escenarios evaluados\n🎯 Análisis Tarifario - Estructura de tarifas actual vs. propuesta\n💰 Proyección Recaudo - Estimaciones de recaudo por escenario\n\n\n\n2.1.2 Análisis Complementarios\n\n📋 Resumen Ejecutivo - Síntesis de resultados principales\n🏘️ Análisis por Segmentos - Desglose detallado por segmentos\n📊 Indicadores de Desempeño - Métricas de evaluación\n\n\n\n\n\n\n\nEstado de Archivos de Datos\n\n\n\nArchivo\nEstado\nEnlace\n\n\n\n\nEscenarios Completos\nEscenarios Completos\n✅ Disponible\n[📥 Descargar](excel_exports/05055_escenarios_completos.xlsx)\n\n\nAnálisis Tarifario\nAnálisis Tarifario\n⏳ Procesando\nEn preparación\n\n\nProyección Recaudo\nProyección Recaudo\n⏳ Procesando\nEn preparación\n\n\nResumen Ejecutivo\nResumen Ejecutivo\n⏳ Procesando\nEn preparación\n\n\nAnálisis Segmentos\nAnálisis Segmentos\n⏳ Procesando\nEn preparación\n\n\nIndicadores\nIndicadores\n⏳ Procesando\nEn preparación"
+  },
+  {
+    "objectID": "optimo_propuesta.html#estructura-tarifaria-propuesta",
+    "href": "optimo_propuesta.html#estructura-tarifaria-propuesta",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "3.1 Estructura Tarifaria Propuesta",
+    "text": "3.1 Estructura Tarifaria Propuesta\n\n3.1.1 Tarifa Mínima\nLa tarifa mínima propuesta es de X por mil del avalúo catastral, aplicable a predios de estrato socioeconómico bajo y avalúos menores a $X millones.\n\n\n3.1.2 Tarifa Básica\nPara predios residenciales de estratos medios, la tarifa propuesta es de Y por mil, asegurando progresividad y capacidad de pago.\n\n\n3.1.3 Tarifa Superior\nLos predios de mayor valor (avalúos superiores a $Z millones) tendrían una tarifa de W por mil, maximizando el principio de progresividad."
+  },
+  {
+    "objectID": "optimo_propuesta.html#beneficios-y-descuentos",
+    "href": "optimo_propuesta.html#beneficios-y-descuentos",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "3.2 Beneficios y Descuentos",
+    "text": "3.2 Beneficios y Descuentos\n\n3.2.1 Pronto Pago\nSe propone mantener el descuento por pronto pago del 10% para pagos realizados antes del 30 de abril.\n\n\n3.2.2 Tercera Edad\nDescuento del 25% para adultos mayores de 65 años propietarios de única vivienda de estrato 1 y 2.\n\n\n3.2.3 Predios Rurales\nTarifa diferencial para predios rurales productivos, promoviendo la actividad agropecuaria."
+  },
+  {
+    "objectID": "optimo_propuesta.html#cronograma-de-implementación",
+    "href": "optimo_propuesta.html#cronograma-de-implementación",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "4.1 Cronograma de Implementación",
+    "text": "4.1 Cronograma de Implementación\n\n4.1.1 Fase 1: Preparación (Meses 1-3)\n\nActualización del avalúo catastral\nCapacitación al personal administrativo\nActualización de sistemas de información\n\n\n\n4.1.2 Fase 2: Adopción Normativa (Mes 4)\n\nAprobación del nuevo estatuto tributario\nPublicación y socialización\nPreparación de campañas informativas\n\n\n\n4.1.3 Fase 3: Entrada en Vigencia (Mes 5)\n\nAplicación del nuevo estatuto\nMonitoreo y seguimiento\nAjustes menores si es necesario"
+  },
+  {
+    "objectID": "optimo_propuesta.html#impacto-esperado",
+    "href": "optimo_propuesta.html#impacto-esperado",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "4.2 Impacto Esperado",
+    "text": "4.2 Impacto Esperado\n\n4.2.1 Incremento en Recaudo\nSe estima un incremento del recaudo predial entre 15% y 25% en el primer año de implementación.\n\n\n4.2.2 Mejora en Equidad\nLa nueva estructura tarifaria mejora significativamente la progresividad del impuesto, asegurando que quienes más tienen, más contribuyan.\n\n\n4.2.3 Fortalecimiento Institucional\nLos recursos adicionales permitirán fortalecer la capacidad institucional y mejorar la prestación de servicios públicos."
+  },
+  {
+    "objectID": "optimo_propuesta.html#técnicas",
+    "href": "optimo_propuesta.html#técnicas",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "5.1 Técnicas",
+    "text": "5.1 Técnicas\n\nActualización catastral: Mantener avalúos actualizados mediante actualizaciones anuales\nSistemas de información: Invertir en tecnología para mejorar la gestión tributaria\nCapacitación: Formar al personal en las nuevas normativas y procedimientos"
+  },
+  {
+    "objectID": "optimo_propuesta.html#políticas",
+    "href": "optimo_propuesta.html#políticas",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "5.2 Políticas",
+    "text": "5.2 Políticas\n\nGradualidad: Implementar los cambios de forma gradual para minimizar el impacto\nComunicación: Desarrollar una estrategia comunicacional clara y transparente\nSeguimiento: Establecer indicadores de monitoreo y evaluación"
+  },
+  {
+    "objectID": "optimo_propuesta.html#institucionales",
+    "href": "optimo_propuesta.html#institucionales",
+    "title": "Propuesta Estatuto Óptimo - Argelia",
+    "section": "5.3 Institucionales",
+    "text": "5.3 Institucionales\n\nModernización: Actualizar procesos y procedimientos administrativos\nCoordinación: Fortalecer la coordinación entre áreas técnicas y administrativas\nTransparencia: Implementar mecanismos de rendición de cuentas"
   },
   {
     "objectID": "analisis_uso.html",
@@ -131,5 +201,82 @@
     "title": "Análisis estatuto de Argelia",
     "section": "8.1 Recomendaciones de política tributaria",
     "text": "8.1 Recomendaciones de política tributaria\nBasándose en el análisis comparativo, se sugieren las siguientes recomendaciones:\n\n8.1.1 Simplificación normativa (Alta complejidad)\n\nRevisión integral: Considerar la consolidación de reglas similares para reducir complejidad administrativa\nDigitalización: Implementar herramientas digitales para facilitar el cálculo y aplicación de tarifas\nCapacitación: Fortalecer las competencias técnicas del personal tributario\nComunicación: Desarrollar material didáctico para facilitar el entendimiento ciudadano\n\n\n\n8.1.2 Recomendaciones generales\n\nTransparencia: Publicar de manera clara y accesible todas las tarifas vigentes\nTecnología: Aprovechar herramientas digitales para mejorar la gestión tributaria\nEquidad: Evaluar periódicamente el impacto distributivo del sistema tarifario\nCoordinación: Mantener coherencia con las políticas tributarias departamentales"
+  },
+  {
+    "objectID": "optimo_analisis.html",
+    "href": "optimo_analisis.html",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "",
+    "text": "El presente análisis presenta los resultados de la estimación de estatutos óptimos para el municipio de Argelia (código DANE: 05055).\nLos estatutos óptimos buscan maximizar el recaudo del impuesto predial manteniendo principios de equidad, progresividad y sostenibilidad fiscal, considerando las características específicas del municipio y su capacidad administrativa.\nPara ver más detalles metodológicos puede visitar la sección de metodología y para las propuestas específicas consulte la sección de propuestas."
+  },
+  {
+    "objectID": "optimo_analisis.html#estructura-de-tarifas-promedio",
+    "href": "optimo_analisis.html#estructura-de-tarifas-promedio",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "3.1 Estructura de Tarifas Promedio",
+    "text": "3.1 Estructura de Tarifas Promedio\nEl siguiente gráfico muestra la comparación entre las tarifas actuales y las tarifas óptimas propuestas:\n\n\n\nTarifas Promedio"
+  },
+  {
+    "objectID": "optimo_analisis.html#tarifas-por-segmento",
+    "href": "optimo_analisis.html#tarifas-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "3.2 Tarifas por Segmento",
+    "text": "3.2 Tarifas por Segmento\nLa segmentación permite aplicar tarifas diferenciadas según las características de los predios:\n\n\n\nTarifas por Segmento"
+  },
+  {
+    "objectID": "optimo_analisis.html#mapa-de-calor-de-tarifas",
+    "href": "optimo_analisis.html#mapa-de-calor-de-tarifas",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "3.3 Mapa de Calor de Tarifas",
+    "text": "3.3 Mapa de Calor de Tarifas\nVisualización de la distribución de tarifas por segmento y estrato:\n\n\n\nMapa de Calor Tarifas"
+  },
+  {
+    "objectID": "optimo_analisis.html#recaudo-por-segmento",
+    "href": "optimo_analisis.html#recaudo-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "4.1 Recaudo por Segmento",
+    "text": "4.1 Recaudo por Segmento\nComparación del recaudo proyectado entre el estatuto actual y el propuesto:\n\n\n\nRecaudo por Segmento"
+  },
+  {
+    "objectID": "optimo_analisis.html#recaudo-por-nivel",
+    "href": "optimo_analisis.html#recaudo-por-nivel",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "4.2 Recaudo por Nivel",
+    "text": "4.2 Recaudo por Nivel\nDistribución del recaudo según niveles de avalúo catastral:\n\n\n\nRecaudo por Nivel"
+  },
+  {
+    "objectID": "optimo_analisis.html#contribución-al-recaudo-por-segmento",
+    "href": "optimo_analisis.html#contribución-al-recaudo-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "4.3 Contribución al Recaudo por Segmento",
+    "text": "4.3 Contribución al Recaudo por Segmento\nAnálisis de la participación de cada segmento en el recaudo total:\n\n\n\nContribución Recaudo"
+  },
+  {
+    "objectID": "optimo_analisis.html#ratios-por-nivel",
+    "href": "optimo_analisis.html#ratios-por-nivel",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "5.1 Ratios por Nivel",
+    "text": "5.1 Ratios por Nivel\nAnálisis de los ratios de tarifa efectiva por nivel de avalúo:\n\n\n\nRatios por Nivel"
+  },
+  {
+    "objectID": "optimo_analisis.html#radar-de-desempeño",
+    "href": "optimo_analisis.html#radar-de-desempeño",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "5.2 Radar de Desempeño",
+    "text": "5.2 Radar de Desempeño\nEvaluación multidimensional del desempeño del estatuto propuesto:\n\n\n\nRadar Desempeño"
+  },
+  {
+    "objectID": "optimo_analisis.html#resumen-de-escenarios",
+    "href": "optimo_analisis.html#resumen-de-escenarios",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "6.1 Resumen de Escenarios",
+    "text": "6.1 Resumen de Escenarios\n\n\n\nResumen de Escenarios Evaluados\n\n\nnombre_nivel\nscenario_id\nratio_real_25\nmejora_pct\ncobertura_tarifa_esc\ntarifa_prom_esc\nrecaudo_millones\n\n\n\n\nAgresivo\n1019\n1.20\n20.0\n100\n8.47\n5.1\n\n\nModerado\n2085\n1.10\n10.0\n100\n7.09\n4.7\n\n\nConservador\n10\n1.03\n3.5\n100\n7.11\n4.4"
+  },
+  {
+    "objectID": "optimo_analisis.html#análisis-detallado-por-segmentos",
+    "href": "optimo_analisis.html#análisis-detallado-por-segmentos",
+    "title": "Análisis de Estatutos Óptimos - Argelia",
+    "section": "6.2 Análisis Detallado por Segmentos",
+    "text": "6.2 Análisis Detallado por Segmentos\n\n\n\nAnálisis Detallado por Segmentos\n\n\nnombre_nivel\nsegmento_completo\nscenario_id\nn_predios\ntarifa_prom_esc\nrecaudo_tot_esc\nshare_recaudo_segmento\ncobertura_tarifa_esc\nrecaudo_millones\nshare_recaudo_pct\n\n\n\n\nAgresivo\nEconómico - Altos\n1019\n2287\n9.04\n3072258.104\n0.601\n100\n3.07\n60.1\n\n\nAgresivo\nVulnerables\n1019\n1311\n4.93\n1274036.782\n0.249\n100\n1.27\n24.9\n\n\nAgresivo\nInstitucional\n1019\n54\n8.00\n466287.126\n0.091\n100\n0.47\n9.1\n\n\nAgresivo\nEspeculativo\n1019\n209\n26.00\n150653.580\n0.029\n100\n0.15\n2.9\n\n\nAgresivo\nEconómico - Bajos\n1019\n740\n8.01\n102011.022\n0.020\n100\n0.10\n2.0\n\n\nAgresivo\nServicios - Altos\n1019\n5\n10.80\n47569.212\n0.009\n100\n0.05\n0.9\n\n\nAgresivo\nServicios - Bajos\n1019\n15\n9.93\n2065.204\n0.000\n100\n0.00\n0.0\n\n\nConservador\nEconómico - Altos\n10\n2287\n7.08\n2443488.589\n0.554\n100\n2.44\n55.4\n\n\nConservador\nVulnerables\n10\n1311\n4.93\n1274036.782\n0.289\n100\n1.27\n28.9\n\n\nConservador\nInstitucional\n10\n54\n6.30\n425957.616\n0.096\n100\n0.43\n9.6\n\n\nConservador\nEspeculativo\n10\n209\n25.00\n144859.211\n0.033\n100\n0.14\n3.3\n\n\nConservador\nEconómico - Bajos\n10\n740\n6.02\n76813.617\n0.017\n100\n0.08\n1.7\n\n\nConservador\nServicios - Altos\n10\n5\n10.20\n47004.301\n0.011\n100\n0.05\n1.1\n\n\nConservador\nServicios - Bajos\n10\n15\n9.80\n2060.646\n0.000\n100\n0.00\n0.0\n\n\nModerado\nEconómico - Altos\n2085\n2287\n6.27\n2327754.520\n0.497\n100\n2.33\n49.7\n\n\nModerado\nVulnerables\n2085\n1311\n5.87\n1523581.942\n0.325\n100\n1.52\n32.5\n\n\nModerado\nInstitucional\n2085\n54\n6.74\n540321.023\n0.115\n100\n0.54\n11.5\n\n\nModerado\nEspeculativo\n2085\n209\n27.00\n156447.948\n0.033\n100\n0.16\n3.3\n\n\nModerado\nEconómico - Bajos\n2085\n740\n6.05\n77790.740\n0.017\n100\n0.08\n1.7\n\n\nModerado\nServicios - Altos\n2085\n5\n12.60\n59464.168\n0.013\n100\n0.06\n1.3\n\n\nModerado\nServicios - Bajos\n2085\n15\n12.53\n2671.775\n0.001\n100\n0.00\n0.1"
   }
 ]
